@@ -27,3 +27,5 @@ its helpful when application is crashed, to minimized downtime, we replicate the
 
 ## 7. Stateful set
 Its similar to deployment, however when deploying the databases, we use stateful set which require state of the pods. This stateful helps to avoid data in-synchronizations and data in consistency due to pod crashes.
+
+[a link](KubernetesArch.md)
