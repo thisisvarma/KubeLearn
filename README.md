@@ -1,2 +1,2 @@
-# KubeLearn
-Kebernetes
+## Kubernetes Cheat sheet
+
