@@ -1,0 +1,3 @@
+I0618 18:17:13.278096      38 leaderelection.go:248] attempting to acquire leader lease kube-system/cattle-controllers...
+I0618 18:17:13.283760      38 leaderelection.go:258] successfully acquired lease kube-system/cattle-controllers
+2023/06/18 18:17:13 [INFO] Bootstrap Password: t88vv59z2x49lrmrnvf8b4zpthbhw5h9n4jmz444lbwfpdcpv2kljc
